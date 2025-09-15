@@ -78,5 +78,5 @@ GMM Oversampling: Balanced resampling strategy achieved strong recall (0.85), th
 
 ✅ Conclusion
 
-GMM-based oversampling improves recall, meaning the model catches more fraud cases.
+GMM + CBU improves recall, meaning the model catches more fraud cases.
 
